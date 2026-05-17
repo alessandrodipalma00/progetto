@@ -1,0 +1,60 @@
+header {
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+/* Sto stilizzando il corpo della pagina per renderlo più accattivante e leggibile*/
+header img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+nav {
+    display: flex;
+    gap: 20px;
+}
+/* Sto stilizzando il menu di navigazione per renderlo più chiaro e facile da usare*/
+body {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.promozioni {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+   /* Sto stilizzando la sezione delle promozioni per renderla più attraente e facile da leggere*/
+}
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Sto stilizzando la sezione delle immagini per renderla più accattivante e facile da leggere*/
+.dettagliSpazi1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+.dettagliSpazi2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
